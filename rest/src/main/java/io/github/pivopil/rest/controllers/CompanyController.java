@@ -39,6 +39,7 @@ public class CompanyController {
     @PutMapping(REST_API.ID_PATH_VARIABLE)
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void update(@RequestBody Company company, @PathVariable("id") Long id) {
+        System.out.println("test");
         company.setId(id);
         companyService.update(company);
     }
