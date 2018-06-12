@@ -1,4 +1,4 @@
-= Spring Boot OAuth2 REST Server with Password Encoding
+= Spring Boot OAuth2 REST Server with Password Encoding 
 
 Simple Spring Boot OAuth2 REST server with password encoding.
 The REST server is based on the https://github.com/royclarkson/spring-rest-service-oauth/[Spring REST Service OAuth] app

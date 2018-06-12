@@ -7,7 +7,7 @@
     <groupId>io.github.pivopil</groupId>
     <artifactId>spring-boot-oauth2-rest-service-password-encoding</artifactId>
     <version>1.0.0</version>
-    <packaging>pom</packaging> 
+    <packaging>pom</packaging>      
 
     <parent>
         <groupId>org.springframework.boot</groupId>
